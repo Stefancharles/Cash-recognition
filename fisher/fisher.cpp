@@ -348,3 +348,9 @@ int main()
 	get_avg_m1_m2_yt();
 	get_total_y();
 }
+
+
+void testfunction()
+{
+	cout << "This is a merge test" << endl;
+}
